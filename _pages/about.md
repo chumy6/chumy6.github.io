@@ -17,5 +17,5 @@ Education Experience
 ======
 Sep. 2020 - Jul. 2025: Sun Yat-sen University (SYSU)
 1. B.S. in Communications Engineering.
-1. Outstanding Graduate of Sun Yat-sen University, GPA Rank 3/72 in the communications engineering major
-1. National Scholarship for Undergraduate Students (2024)
+1. Outstanding Graduate of Sun Yat-sen University, GPA Rank 3/72 in the communications engineering major.
+1. National Scholarship for Undergraduate Students (2024).
