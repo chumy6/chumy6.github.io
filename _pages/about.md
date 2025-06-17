@@ -15,7 +15,22 @@ AI Chip, Hardware Implementation.
 
 Education Experience
 ======
+Sep. 2025 - Jul. 2026: Hong Kong University of Science and Technology (HKUST)
+1. M.S. in Integrated Circuit.
+
 Sep. 2020 - Jul. 2025: Sun Yat-sen University (SYSU)
 1. B.S. in Communications Engineering.
-1. Outstanding Graduate of Sun Yat-sen University, GPA Rank 3/72 in the communications engineering major.
-1. National Scholarship for Undergraduate Students (2024).
+2. Outstanding Graduate of Sun Yat-sen University, GPA Rank 3/72 in the communications engineering major.
+3. National Scholarship for Undergraduate Students (2024).
+
+Skills
+======
+* Hardware Description Language
+  * Verilog
+* Programming Language
+  * C++
+  * Python
+  * Matlab
+
+
+
