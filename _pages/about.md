@@ -11,7 +11,7 @@ I'm a fourth-year undergraduate student from [Sun Yat-sen University (Guangzhou)
 
 Research Interests
 ======
-Digital Circuit Design, AI Chip, Hardware Implementation.
+AI Chip, Hardware Implementation.
 
 Education Experience
 ======
