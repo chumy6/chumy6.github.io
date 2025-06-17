@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mengyuan Chu / 奥普提米森"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Mengyuan Chu"
 description              : &description "personal description"
