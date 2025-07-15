@@ -32,5 +32,5 @@ Skills
   * Python
   * Matlab
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1bWEh4QVvQMHE5P5KjHk4j9wuhgnPrjglhYWY6fGunE&cl=ffffff&w=a"></script>
+
 
