@@ -28,8 +28,8 @@ author:
   bio              : "IC Learner"
   location         : "Hong Kong"
   employer         : "The Hong Kong University of Science and Technology"
-  uri              : "https://chumy6.github.io/"
-  email            : "chumy66@foxmain.com" 
+  # uri              : "https://chumy6.github.io/"
+  email            : "mchuai@connect.ust.hk" 
 
   # Academic websites
   # academia         : # URL
